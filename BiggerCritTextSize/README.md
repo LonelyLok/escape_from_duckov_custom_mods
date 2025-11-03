@@ -3,7 +3,7 @@
 ## Summary
 Increase display text size for crit number.
 
-## Step on build the mod
+## Steps to Build the Mod
 1. Install .NET SDK.
 2. Update `DuckovPath` in `BiggerCritTextSize.csproj`.
 3. Run `dotnet build`.
