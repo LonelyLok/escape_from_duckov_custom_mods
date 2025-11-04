@@ -16,3 +16,4 @@ Adds a green dot indicator to item icons for registered items.
 
 ## Demo
 Shows an example of the green dot indicator displayed on registered item icon.
+<img width="1602" height="721" alt="registered-item-icon-indicator-demo" src="https://github.com/user-attachments/assets/2b68a03d-9c4e-4a22-b33c-fcc5f162dce3" />
